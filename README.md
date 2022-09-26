@@ -1,5 +1,7 @@
 # AngularMicroFrontendExample
 
+https://github.com/module-federation/module-federation-examples
+
 https://webpack.js.org/concepts/module-federation/#dynamic-remote-containers
 
 https://github.com/module-federation/module-federation-examples/tree/master/angular11-microfrontends
